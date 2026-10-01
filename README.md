@@ -19,7 +19,6 @@ Sec. 8   Combined K ≈ K^(1)_active + K^(2)_rest
 VASP requirements
 -----------------
   LORBIT = 11   (lm-decomposed PDOS, real cubic harmonics)
-  ISMEAR = -5   (tetrahedron method)
   ISPIN  = 2    (collinear spin-polarised)
   For first-order MAE: two separate runs with SAXIS = 0 0 1 and SAXIS = 1 0 0
                        (or equivalent), so OUTCAR orbital moments can be compared.
