@@ -1,4 +1,4 @@
-# MAE_Green_Function
+# MAEGreenFunction
 VASP PDOS Analyzer: Orbital-Resolved MAE — 1st AND 2nd Order SOC
 =================================================================
 Implements the full Green-function perturbation theory from:
